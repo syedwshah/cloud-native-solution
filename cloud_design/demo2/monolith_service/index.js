@@ -15,7 +15,7 @@ app.use("/api/v1/user", user);
 app.use("/api/v1/messaging", messaging);
 
 // Add route so base API doesn't cause 4xx error
-app.get('/',(req, res) => res.send('Ping "/" route'));
+app.get("/", (req, res) => res.send('Ping "/" route'));
 
 const PORT = process.env.PORT || 3000;
 
