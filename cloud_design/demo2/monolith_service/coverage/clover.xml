@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1697751387613" clover="3.2.0">
+  <project timestamp="1697751387613" name="All files">
+    <metrics statements="10" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1" elements="12" coveredelements="9" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+    <file name="user.js" path="/Users/syedshah/Documents/projects/demos/cloud_design/demo2/monolith_service/routes/user.js">
+      <metrics statements="10" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
