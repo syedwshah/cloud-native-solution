@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Docker Node.js Launch",
+            "type": "docker",
+            "request": "launch",
+            "preLaunchTask": "docker-run: debug",
+            "platform": "node",
+            "node": {
+                "package": "${workspaceFolder}/cloud_design/demo2/monolith_service/package.json",
+                "localRoot": "${workspaceFolder}/cloud_design/demo2/monolith_service"
+            }
+        }
+    ]
+}
